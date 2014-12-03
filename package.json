@@ -1,0 +1,23 @@
+{
+  "name": "chan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gg.js",
+  "scripts": {
+    "test": "",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chanhou/facebook_scraping"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanhou/facebook_scraping"
+  },
+  "homepage": "https://github.com/chanhou/facebook_scraping",
+  "dependencies": {
+    "underscore": "~1.6.0"
+  }
+}
